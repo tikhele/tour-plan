@@ -1,7 +1,6 @@
-const swiper = new Swiper('.swiper', {
+var hotelSlider = new Swiper('.hotel-slider', {
   // Optional parameters
     loop: true,
-
   // Navigation arrows
   navigation: {
     nextEl: '.hotel-slider__button--next',
