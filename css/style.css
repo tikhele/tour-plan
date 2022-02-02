@@ -1131,6 +1131,10 @@ template {
   .map {
     width: 100%;
   }
+  .card {
+    width: 230px;
+    height: 230px;
+  }
 }
 
 @media (max-width: 992px) {
